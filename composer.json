@@ -1,0 +1,13 @@
+{
+    "name": "mikroskeem/dialog",
+    "description": "Dialog is a logger framework for PHP",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mark Vainomaa",
+            "email": "mikroskeem@mikroskeem.eu"
+        }
+    ],
+    "require": {}
+}
